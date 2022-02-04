@@ -1,0 +1,16 @@
+Column1;Column2;Column3;Column4
+Region;Exchange;Index;Currency
+United States;New York Stock Exchange;1;USD
+United States;NASDAQ;2;USD
+Hong Kong;Hong Kong Stock Exchange;0;HKD
+China;Shanghai Stock Exchange;3;CNY
+Japan;Tokyo Stock Exchange;4;JPY
+Europe;Euronext;5;EUR
+China;Shenzhen Stock Exchange;6;CNY
+Canada;Toronto Stock Exchange;7;CAD
+India;National Stock Exchange of India;8;INR
+Germany;Frankfurt Stock Exchange;9;EUR
+Korea;Korea Exchange;-;KRW
+Switzerland;SIX Swiss Exchange;10;CHF
+Taiwan;Taiwan Stock Exchange;11;TWD
+South Africa;Johannesburg Stock Exchange;12;ZAR

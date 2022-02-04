@@ -1,2 +1,4 @@
 # StockPredictions
-Python Machine Learning Algorithm for Analysing Stock Data provided by Cody on: https://www.kaggle.com/mattiuzc/stock-exchange-data
+Python Machine Learning Algorithm for Analysing Stock Exchnage Data provided by Cody on: https://www.kaggle.com/mattiuzc/stock-exchange-data
+
+In diesem Datensatz sind 3 Tabellen vorhanden: indexData.csv, indexInfo.csv und indexProcessed.csv. indexInfo.csv beinhaltet 4 Zeilen: Region, Exchange, Index und Currency. Diese Tabelle ist mehrheitlich nur für das Verständnis benötigt da in dieser Tabelle die Abkürzung "Index" in den anderen Tabellen definiert und die jeweilige Währung wird auch definiert. Die Tabelle indexData beinhaltet die Rohdaten und listet alle Daten zu allen. Die Tabelle indexProcessed beinhaltet die bereinigten Daten. Hierbei wurden unter anderem alle Reihen mit dem Wert NULL gelöscht und eine Zeile mit dem Endkurs in USD. Diese Bereinigung wurde durch den Autor durchgeführt, ich habe dann noch die Indexe von einem Kategorischen Wert in einen Numerischen Wert umgewandelt und diese auch im indexInfo.csv geändert.
